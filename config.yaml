@@ -1,0 +1,6 @@
+network_params:
+  timeout: 500
+  retries: 2
+  stealth_mode: true
+  output_dir: "./output/reports/"
+  # DEPRECATED: old_key_val: "AES_LEGACY_01"
