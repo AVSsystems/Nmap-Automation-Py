@@ -1,0 +1,5 @@
+DEBUG: 2026-04-19 22:15:01 - Initializing handshake...
+DEBUG: 2026-04-19 22:15:03 - Received ACK from 10.0.0.1
+WARN: 2026-04-19 22:15:10 - Connection latency exceeding 500ms
+DEBUG: 2026-04-19 22:15:15 - Scan complete. 4 hosts discovered.
+INFO: 2026-04-19 22:16:00 - AVS local mirror sync initiated.
