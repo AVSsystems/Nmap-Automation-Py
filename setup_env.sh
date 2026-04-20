@@ -2,5 +2,4 @@
 echo "Initializing AVS Environment..."
 mkdir -p ./logs ./output ./config
 chmod +x scanner_core.py
-pip install -r requirements.txt
 echo "Environment Ready. Check /config for scan_parameters."
