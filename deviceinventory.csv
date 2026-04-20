@@ -1,0 +1,5 @@
+Hostname,IP_Address,OS,Department,Last_Seen
+TTU-LAB-01,10.0.5.11,Ubuntu 22.04,Computer Science,2026-04-01
+COOKEVILLE-GW,10.0.0.1,Cisco IOS,Infrastructure,2026-04-18
+AVS-MBP-16,10.0.5.50,macOS,Admin,2026-04-20
+IOT-THERMOSTAT,192.168.1.15,Embedded Linux,Facilities,2026-03-30
